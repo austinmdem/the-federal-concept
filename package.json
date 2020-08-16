@@ -1,0 +1,19 @@
+{
+  "name": "the-federal",
+  "version": "1.0.0",
+  "description": "redesign of a local eatery",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austinmdem/the-federal-concept.git"
+  },
+  "author": "Austin Deming",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austinmdem/the-federal-concept/issues"
+  },
+  "homepage": "https://github.com/austinmdem/the-federal-concept#readme"
+}
